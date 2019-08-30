@@ -1,6 +1,6 @@
 # Custom nav
 nav:
-  title: "Clover Tuan"
+  title: "Aba"
 
 favicon: ""
 
@@ -33,7 +33,7 @@ menu:
   #   card: article-card
   Home: /
   Archive: /archives
-  About: /about
+  # About: /about
 
 # Specific default categories or tags of home page.
 # Post which belongs to `category` or `tag` and don't belongs to `except_category` or `except_tag` will be filtered.
